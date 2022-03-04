@@ -5,6 +5,11 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+
+# below can be commented if change machine
+alias qvpn='/home/gtx/Tools/GFW/Qv2ray.v2.6.3.linux-x64.AppImage'
+
+
 alias ls='ls --color=auto'
 alias ll='ls -lah'
 alias lg='lazygit'
