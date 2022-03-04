@@ -1,0 +1,16 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/gtx/.dotfiles
+- /home/gtx/.dotfilies
+- /home/gtx/.config/nvim
+- /home/gtx/Repos/dwm
+- /home/gtx/Repos/xv6-riscv
+- /home/gtx/Repos/slstatus
+- /home/gtx/Repos/dwmblocks
+- /home/gtx/Repos/PlayLinux
+- /home/gtx/.config/nvim/plugged/vim-snippets
+- /home/gtx/Repos/st
+startuppopupversion: 5
+customcommandshistory:
+- q
+hidecommandlog: false

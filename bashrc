@@ -7,6 +7,9 @@
 
 alias ls='ls --color=auto'
 alias ll='ls -lah'
+alias lg='lazygit'
+alias ra='ranger'
+alias za='zathura'
 PS1='[\u@\h \W]\$ '
 
 
